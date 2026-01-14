@@ -1,0 +1,324 @@
+[drwxr-xr-x  640 2026-01-13 18:18]  .
+├── [drwxr-xr-x  672 2026-01-13 14:54]  .next
+│   ├── [drwxr-xr-x  192 2026-01-13 11:50]  cache
+│   │   ├── [drwxr-xr-x   96 2026-01-13 11:50]  fetch-cache
+│   │   │   └── [-rw-r--r-- 1.5K 2026-01-13 11:50]  d4503325297399e3b07f58b65e925554e5f4ac5f9bf537aee213321450979fb9
+│   │   ├── [-rw-r--r--  262 2026-01-13 11:50]  .previewinfo
+│   │   ├── [-rw-r--r--  102 2026-01-13 11:50]  .rscinfo
+│   │   └── [-rw-r--r-- 118K 2026-01-13 14:54]  .tsbuildinfo
+│   ├── [drwxr-xr-x  448 2026-01-13 19:21]  dev
+│   │   ├── [drwxr-xr-x  192 2026-01-13 18:20]  build
+│   │   │   ├── [drwxr-xr-x  384 2026-01-13 18:20]  chunks
+│   │   │   │   ├── [-rw-rw-r--  18K 2026-01-13 18:20]  [root-of-the-server]__44695d76._.js
+│   │   │   │   ├── [-rw-rw-r--  23K 2026-01-13 18:20]  [root-of-the-server]__44695d76._.js.map
+│   │   │   │   ├── [-rw-rw-r--  10K 2026-01-13 18:20]  [root-of-the-server]__6d51cb5d._.js
+│   │   │   │   ├── [-rw-rw-r-- 9.4K 2026-01-13 18:20]  [root-of-the-server]__6d51cb5d._.js.map
+│   │   │   │   ├── [-rw-rw-r--  621 2026-01-13 18:20]  [turbopack-node]_transforms_postcss_ts_df7a5b11._.js
+│   │   │   │   ├── [-rw-rw-r--   53 2026-01-13 18:20]  [turbopack-node]_transforms_postcss_ts_df7a5b11._.js.map
+│   │   │   │   ├── [-rw-rw-r--  29K 2026-01-13 18:20]  [turbopack]_runtime.js
+│   │   │   │   ├── [-rw-rw-r--  49K 2026-01-13 18:20]  [turbopack]_runtime.js.map
+│   │   │   │   ├── [-rw-rw-r-- 252K 2026-01-13 18:20]  node_modules_fe693df6._.js
+│   │   │   │   └── [-rw-rw-r-- 365K 2026-01-13 18:20]  node_modules_fe693df6._.js.map
+│   │   │   ├── [-rw-rw-r--   20 2026-01-13 18:20]  package.json
+│   │   │   ├── [-rw-rw-r--  883 2026-01-13 18:20]  postcss.js
+│   │   │   └── [-rw-rw-r--   53 2026-01-13 18:20]  postcss.js.map
+│   │   ├── [drwxr-xr-x  224 2026-01-13 18:21]  cache
+│   │   │   ├── [drwxr-xr-x  352 2026-01-13 14:07]  fetch-cache
+│   │   │   │   ├── [-rw-r--r--  991 2026-01-11 23:40]  4f42b105be08b9150817bce64f715ca2b72f3924ed618ecdd6dd3aee94ee4854
+│   │   │   │   ├── [-rw-r--r--  991 2026-01-12 17:46]  527c975d55d0e5b9f471beb146b80aa2518bbf4ecc82f3858de520b183285a1b
+│   │   │   │   ├── [-rw-r--r-- 7.4K 2026-01-13 19:20]  8c3c5e24d6dd824fdeedfa83a9459cd787b11e8f1bd747af0f950abaceb44bb2
+│   │   │   │   ├── [-rw-r--r-- 2.3K 2026-01-13 12:05]  93d229bbb2c1fe2cec0d81ce50df40c9e27d3a350b9f093e92f543198604c6e9
+│   │   │   │   ├── [-rw-r--r-- 1.4K 2026-01-13 13:54]  cb040439b09a8d1743db0a0773ce1a5a66c3c3d84d7d1c2b039fd5598244ceb8
+│   │   │   │   ├── [-rw-r--r-- 1.5K 2026-01-13 11:50]  d4503325297399e3b07f58b65e925554e5f4ac5f9bf537aee213321450979fb9
+│   │   │   │   ├── [-rw-r--r-- 1.6K 2026-01-13 14:07]  d4bf28e462fbe4931600efffbc5dd77f7b00213bb55beae82ba4581f27d5e251
+│   │   │   │   ├── [-rw-r--r--  979 2026-01-13 11:22]  dfd3d0d82ee53fa5978c0effc2ccab7fb091f811c8dfb5f20d1bce9ab1911f99
+│   │   │   │   └── [-rw-r--r-- 2.3K 2026-01-12 00:32]  eae533a02a1052ebb1785e3228c2a569b452613031133b69ceff748769cf6ee9
+│   │   │   ├── [drwxr-xr-x   96 2026-01-11 16:31]  turbopack
+│   │   │   │   └── [drwxr-xr-x  15K 2026-01-13 19:17]  v16.1.0-canary.19-84-g3aa53984e
+│   │   │   ├── [-rw-r--r--  102 2026-01-11 16:31]  .rscinfo
+│   │   │   ├── [-rw-r--r--   36 2026-01-13 18:21]  chrome-devtools-workspace-uuid
+│   │   │   └── [-rw-r--r--   21 2026-01-13 18:54]  next-devtools-config.json
+│   │   ├── [drwxr-xr-x   96 2026-01-11 16:31]  logs
+│   │   │   └── [-rw-r--r-- 3.5K 2026-01-13 19:20]  next-development.log
+│   │   ├── [drwxr-xr-x  448 2026-01-13 19:20]  server
+│   │   │   ├── [drwxr-xr-x  128 2026-01-11 16:31]  app
+│   │   │   │   ├── [drwxr-xr-x  224 2026-01-13 19:04]  (site)
+│   │   │   │   └── [drwxr-xr-x  192 2026-01-11 16:31]  _not-found
+│   │   │   ├── [drwxr-xr-x   96 2026-01-11 16:31]  chunks
+│   │   │   │   └── [drwxr-xr-x 2.2K 2026-01-13 19:04]  ssr
+│   │   │   ├── [drwxr-xr-x  352 2026-01-13 14:36]  pages
+│   │   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:36]  _app
+│   │   │   │   ├── [drwxr-xr-x  160 2026-01-13 14:36]  _document
+│   │   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:36]  _error
+│   │   │   │   ├── [-rw-rw-r--  284 2026-01-13 14:36]  _app.js
+│   │   │   │   ├── [-rw-rw-r--   53 2026-01-13 14:36]  _app.js.map
+│   │   │   │   ├── [-rw-rw-r--  342 2026-01-13 14:36]  _document.js
+│   │   │   │   ├── [-rw-rw-r--   53 2026-01-13 14:36]  _document.js.map
+│   │   │   │   ├── [-rw-rw-r-- 1.0K 2026-01-13 14:36]  _error.js
+│   │   │   │   └── [-rw-rw-r--   53 2026-01-13 14:36]  _error.js.map
+│   │   │   ├── [-rw-r--r--  102 2026-01-13 19:20]  app-paths-manifest.json
+│   │   │   ├── [-rw-r--r--   48 2026-01-13 19:19]  interception-route-rewrite-manifest.js
+│   │   │   ├── [-rw-r--r-- 1.1K 2026-01-13 19:20]  middleware-build-manifest.js
+│   │   │   ├── [-rw-r--r--   83 2026-01-13 19:19]  middleware-manifest.json
+│   │   │   ├── [-rw-r--r--  135 2026-01-13 19:20]  next-font-manifest.js
+│   │   │   ├── [-rw-r--r--   94 2026-01-13 19:20]  next-font-manifest.json
+│   │   │   ├── [-rw-r--r--    2 2026-01-13 19:19]  pages-manifest.json
+│   │   │   ├── [-rw-r--r--  138 2026-01-13 19:20]  server-reference-manifest.js
+│   │   │   └── [-rw-r--r--   97 2026-01-13 19:20]  server-reference-manifest.json
+│   │   ├── [drwxr-xr-x  128 2026-01-11 16:31]  static
+│   │   │   ├── [drwxr-xr-x 2.2K 2026-01-13 18:20]  chunks
+│   │   │   │   ├── [drwxr-xr-x  128 2026-01-13 14:36]  pages
+│   │   │   │   ├── [-rw-rw-r--  806 2026-01-13 14:36]  [next]_entry_page-loader_ts_43b523b5._.js
+│   │   │   │   ├── [-rw-rw-r-- 1.0K 2026-01-13 14:36]  [next]_entry_page-loader_ts_43b523b5._.js.map
+│   │   │   │   ├── [-rw-rw-r--  800 2026-01-13 14:36]  [next]_entry_page-loader_ts_742e4b53._.js
+│   │   │   │   ├── [-rw-rw-r-- 1.0K 2026-01-13 14:36]  [next]_entry_page-loader_ts_742e4b53._.js.map
+│   │   │   │   ├── [-rw-rw-r--  15K 2026-01-13 14:36]  [root-of-the-server]__092393de._.js
+│   │   │   │   ├── [-rw-rw-r--  24K 2026-01-13 14:36]  [root-of-the-server]__092393de._.js.map
+│   │   │   │   ├── [-rw-rw-r--  15K 2026-01-13 14:36]  [root-of-the-server]__45f039c3._.js
+│   │   │   │   ├── [-rw-rw-r--  24K 2026-01-13 14:36]  [root-of-the-server]__45f039c3._.js.map
+│   │   │   │   ├── [-rw-rw-r--  671 2026-01-11 16:31]  [turbopack]_browser_dev_hmr-client_hmr-client_ts_956a0d3a._.js
+│   │   │   │   ├── [-rw-rw-r--   53 2026-01-11 16:31]  [turbopack]_browser_dev_hmr-client_hmr-client_ts_956a0d3a._.js.map
+│   │   │   │   ├── [-rw-rw-r--  288 2026-01-11 16:31]  [turbopack]_browser_dev_hmr-client_hmr-client_ts_c7192189._.js
+│   │   │   │   ├── [-rw-rw-r--  15K 2026-01-11 16:31]  [turbopack]_browser_dev_hmr-client_hmr-client_ts_c8c997ce._.js
+│   │   │   │   ├── [-rw-rw-r--  24K 2026-01-11 16:31]  [turbopack]_browser_dev_hmr-client_hmr-client_ts_c8c997ce._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 115K 2026-01-11 16:31]  _23a915ee._.js.map
+│   │   │   │   ├── [-rw-rw-r--  783 2026-01-11 16:31]  _a0ff3932._.js
+│   │   │   │   ├── [-rw-rw-r--  262 2026-01-11 16:31]  app_(site)_page_tsx_1cf6b850._.js
+│   │   │   │   ├── [-rw-rw-r--  262 2026-01-13 18:20]  app_(site)_page_tsx_893e5ca7._.js
+│   │   │   │   ├── [-rw-rw-r-- 8.2K 2026-01-13 19:15]  app_globals_71f961d1.css
+│   │   │   │   ├── [-rw-rw-r--  16K 2026-01-13 19:15]  app_globals_71f961d1.css.map
+│   │   │   │   ├── [-rw-rw-r--  250 2026-01-13 19:21]  app_layout_tsx_1cf6b850._.js
+│   │   │   │   ├── [-rw-rw-r--  71K 2026-01-13 14:36]  node_modules_7f09fef0._.js
+│   │   │   │   ├── [-rw-rw-r-- 110K 2026-01-13 14:36]  node_modules_7f09fef0._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 1.9K 2026-01-11 16:31]  node_modules_@swc_helpers_cjs_d80fb378._.js
+│   │   │   │   ├── [-rw-rw-r-- 2.9K 2026-01-11 16:31]  node_modules_@swc_helpers_cjs_d80fb378._.js.map
+│   │   │   │   ├── [-rw-rw-r--  416 2026-01-13 14:36]  node_modules_next_app_72f3d36f.js
+│   │   │   │   ├── [-rw-rw-r--  329 2026-01-13 14:36]  node_modules_next_app_72f3d36f.js.map
+│   │   │   │   ├── [-rw-rw-r-- 169K 2026-01-13 18:20]  node_modules_next_dist_279f65b1._.js
+│   │   │   │   ├── [-rw-rw-r-- 218K 2026-01-13 18:20]  node_modules_next_dist_279f65b1._.js.map
+│   │   │   │   ├── [-rw-rw-r--  90K 2026-01-13 14:36]  node_modules_next_dist_a183fb77._.js
+│   │   │   │   ├── [-rw-rw-r-- 125K 2026-01-13 14:36]  node_modules_next_dist_a183fb77._.js.map
+│   │   │   │   ├── [-rw-rw-r--  84K 2026-01-13 14:36]  node_modules_next_dist_b3fb3b5f._.js
+│   │   │   │   ├── [-rw-rw-r-- 110K 2026-01-13 14:36]  node_modules_next_dist_b3fb3b5f._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 124K 2026-01-11 16:31]  node_modules_next_dist_be32b49c._.js
+│   │   │   │   ├── [-rw-rw-r-- 159K 2026-01-11 16:31]  node_modules_next_dist_be32b49c._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 110K 2026-01-11 16:31]  node_modules_next_dist_build_polyfills_polyfill-nomodule.js
+│   │   │   │   ├── [-rw-rw-r-- 113K 2026-01-11 16:31]  node_modules_next_dist_build_polyfills_polyfill-nomodule.js.map
+│   │   │   │   ├── [-rw-rw-r-- 606K 2026-01-11 16:31]  node_modules_next_dist_client_17643121._.js
+│   │   │   │   ├── [-rw-rw-r-- 843K 2026-01-11 16:31]  node_modules_next_dist_client_17643121._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 176K 2026-01-13 14:36]  node_modules_next_dist_client_5a8a528e._.js
+│   │   │   │   ├── [-rw-rw-r-- 232K 2026-01-13 14:36]  node_modules_next_dist_client_5a8a528e._.js.map
+│   │   │   │   ├── [-rw-rw-r--  262 2026-01-11 16:31]  node_modules_next_dist_client_components_builtin_global-error_1cf6b850.js
+│   │   │   │   ├── [-rw-rw-r--  262 2026-01-11 16:31]  node_modules_next_dist_client_components_builtin_layout_1cf6b850.js
+│   │   │   │   ├── [-rw-rw-r-- 892K 2026-01-13 14:36]  node_modules_next_dist_compiled_8ca6b690._.js
+│   │   │   │   ├── [-rw-rw-r-- 2.5M 2026-01-13 14:36]  node_modules_next_dist_compiled_8ca6b690._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 141K 2026-01-11 16:31]  node_modules_next_dist_compiled_a0e4c7b4._.js
+│   │   │   │   ├── [-rw-rw-r-- 177K 2026-01-11 16:31]  node_modules_next_dist_compiled_a0e4c7b4._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 797K 2026-01-11 16:31]  node_modules_next_dist_compiled_next-devtools_index_1dd7fb59.js
+│   │   │   │   ├── [-rw-rw-r-- 2.4M 2026-01-11 16:31]  node_modules_next_dist_compiled_next-devtools_index_1dd7fb59.js.map
+│   │   │   │   ├── [-rw-rw-r-- 1023K 2026-01-11 16:31]  node_modules_next_dist_compiled_react-dom_1e674e59._.js
+│   │   │   │   ├── [-rw-rw-r-- 1.6M 2026-01-11 16:31]  node_modules_next_dist_compiled_react-dom_1e674e59._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 166K 2026-01-11 16:31]  node_modules_next_dist_compiled_react-server-dom-turbopack_9212ccad._.js
+│   │   │   │   ├── [-rw-rw-r-- 275K 2026-01-11 16:31]  node_modules_next_dist_compiled_react-server-dom-turbopack_9212ccad._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 203K 2026-01-11 16:31]  node_modules_next_dist_f3530cac._.js
+│   │   │   │   ├── [-rw-rw-r-- 277K 2026-01-11 16:31]  node_modules_next_dist_f3530cac._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 236K 2026-01-13 14:36]  node_modules_next_dist_shared_lib_8bac8163._.js
+│   │   │   │   ├── [-rw-rw-r-- 352K 2026-01-13 14:36]  node_modules_next_dist_shared_lib_8bac8163._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 246K 2026-01-13 14:36]  node_modules_next_dist_shared_lib_9a2a7093._.js
+│   │   │   │   ├── [-rw-rw-r-- 365K 2026-01-13 14:36]  node_modules_next_dist_shared_lib_9a2a7093._.js.map
+│   │   │   │   ├── [-rw-rw-r--  422 2026-01-13 14:36]  node_modules_next_error_1cfbb379.js
+│   │   │   │   ├── [-rw-rw-r--  333 2026-01-13 14:36]  node_modules_next_error_1cfbb379.js.map
+│   │   │   │   ├── [-rw-rw-r-- 942K 2026-01-13 14:36]  node_modules_react-dom_4411d9bd._.js
+│   │   │   │   ├── [-rw-rw-r-- 1.5M 2026-01-13 14:36]  node_modules_react-dom_4411d9bd._.js.map
+│   │   │   │   ├── [-rw-rw-r-- 115K 2026-01-13 14:36]  pages__app_0fce199e._.js.map
+│   │   │   │   ├── [-rw-rw-r--  726 2026-01-13 14:36]  pages__app_2da965e7._.js
+│   │   │   │   ├── [-rw-rw-r--  728 2026-01-13 14:36]  pages__error_2da965e7._.js
+│   │   │   │   ├── [-rw-rw-r-- 115K 2026-01-13 14:36]  pages__error_af01c4e3._.js.map
+│   │   │   │   ├── [-rw-rw-r--  73K 2026-01-11 16:31]  turbopack-_23a915ee._.js
+│   │   │   │   ├── [-rw-rw-r--  73K 2026-01-13 14:36]  turbopack-pages__app_0fce199e._.js
+│   │   │   │   └── [-rw-rw-r--  73K 2026-01-13 14:36]  turbopack-pages__error_af01c4e3._.js
+│   │   │   └── [drwxr-xr-x  160 2026-01-13 19:19]  development
+│   │   │       ├── [-rw-r--r--  219 2026-01-13 19:19]  _buildManifest.js
+│   │   │       ├── [-rw-r--r--    2 2026-01-13 19:19]  _clientMiddlewareManifest.json
+│   │   │       └── [-rw-r--r--   76 2026-01-13 19:19]  _ssgManifest.js
+│   │   ├── [drwxr-xr-x  160 2026-01-11 16:31]  types
+│   │   │   ├── [-rw-r--r-- 5.7K 2026-01-13 19:19]  cache-life.d.ts
+│   │   │   ├── [-rw-r--r-- 1.4K 2026-01-13 19:19]  routes.d.ts
+│   │   │   └── [-rw-r--r-- 2.4K 2026-01-13 19:19]  validator.ts
+│   │   ├── [-rw-r--r--  976 2026-01-13 19:20]  build-manifest.json
+│   │   ├── [-rw-r--r--  214 2026-01-13 19:20]  fallback-build-manifest.json
+│   │   ├── [-rw-r--r--   24 2026-01-13 19:19]  package.json
+│   │   ├── [-rw-r--r--  354 2026-01-13 19:19]  prerender-manifest.json
+│   │   ├── [-rw-r--r--  288 2026-01-13 19:19]  routes-manifest.json
+│   │   └── [-rw-r--r-- 113K 2026-01-13 19:20]  trace
+│   ├── [drwxr-xr-x  128 2026-01-13 14:54]  diagnostics
+│   │   ├── [-rw-r--r--   93 2026-01-13 14:54]  build-diagnostics.json
+│   │   └── [-rw-r--r--   37 2026-01-13 14:54]  framework.json
+│   ├── [drwxr-xr-x   96 2026-01-13 14:54]  export
+│   │   └── [drwxr-xr-x   96 2026-01-13 14:54]  _next
+│   │       └── [drwxr-xr-x   64 2026-01-13 14:54]  uIHAzdGyaXB76EGuqwznC
+│   ├── [drwxr-xr-x  448 2026-01-13 14:54]  server
+│   │   ├── [drwxr-xr-x  416 2026-01-13 14:54]  app
+│   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:54]  (site)
+│   │   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:54]  page
+│   │   │   │   ├── [-rw-rw-r-- 1006 2026-01-13 14:54]  page.js
+│   │   │   │   ├── [-rw-rw-r--   53 2026-01-13 14:54]  page.js.map
+│   │   │   │   ├── [-rw-rw-r-- 4.7K 2026-01-13 14:54]  page.js.nft.json
+│   │   │   │   └── [-rw-rw-r-- 7.1K 2026-01-13 14:54]  page_client-reference-manifest.js
+│   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:54]  _global-error
+│   │   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:54]  page
+│   │   │   │   ├── [-rw-rw-r--  586 2026-01-13 14:54]  page.js
+│   │   │   │   ├── [-rw-rw-r--   53 2026-01-13 14:54]  page.js.map
+│   │   │   │   ├── [-rw-rw-r-- 4.2K 2026-01-13 14:54]  page.js.nft.json
+│   │   │   │   └── [-rw-rw-r-- 5.9K 2026-01-13 14:54]  page_client-reference-manifest.js
+│   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:54]  _global-error.segments
+│   │   │   │   ├── [-rw-r--r-- 1.7K 2026-01-13 14:54]  __PAGE__.segment.rsc
+│   │   │   │   ├── [-rw-r--r-- 3.1K 2026-01-13 14:54]  _full.segment.rsc
+│   │   │   │   ├── [-rw-r--r--  678 2026-01-13 14:54]  _head.segment.rsc
+│   │   │   │   ├── [-rw-r--r--  432 2026-01-13 14:54]  _index.segment.rsc
+│   │   │   │   └── [-rw-r--r--  293 2026-01-13 14:54]  _tree.segment.rsc
+│   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:54]  _not-found
+│   │   │   │   ├── [drwxr-xr-x  224 2026-01-13 14:54]  page
+│   │   │   │   ├── [-rw-rw-r--  825 2026-01-13 14:54]  page.js
+│   │   │   │   ├── [-rw-rw-r--   53 2026-01-13 14:54]  page.js.map
+│   │   │   │   ├── [-rw-rw-r-- 4.4K 2026-01-13 14:54]  page.js.nft.json
+│   │   │   │   └── [-rw-rw-r-- 5.8K 2026-01-13 14:54]  page_client-reference-manifest.js
+│   │   │   ├── [drwxr-xr-x  256 2026-01-13 14:54]  _not-found.segments
+│   │   │   │   ├── [drwxr-xr-x   96 2026-01-13 14:54]  _not-found
+│   │   │   │   ├── [-rw-r--r-- 4.6K 2026-01-13 14:54]  _full.segment.rsc
+│   │   │   │   ├── [-rw-r--r--  729 2026-01-13 14:54]  _head.segment.rsc
+│   │   │   │   ├── [-rw-r--r-- 1.7K 2026-01-13 14:54]  _index.segment.rsc
+│   │   │   │   ├── [-rw-r--r--  432 2026-01-13 14:54]  _not-found.segment.rsc
+│   │   │   │   └── [-rw-r--r--  426 2026-01-13 14:54]  _tree.segment.rsc
+│   │   │   ├── [-rw-r--r-- 5.5K 2026-01-13 14:54]  _global-error.html
+│   │   │   ├── [-rw-r--r--  314 2026-01-13 14:54]  _global-error.meta
+│   │   │   ├── [-rw-r--r-- 3.1K 2026-01-13 14:54]  _global-error.rsc
+│   │   │   ├── [-rw-r--r-- 7.2K 2026-01-13 14:54]  _not-found.html
+│   │   │   ├── [-rw-r--r--  335 2026-01-13 14:54]  _not-found.meta
+│   │   │   └── [-rw-r--r-- 4.6K 2026-01-13 14:54]  _not-found.rsc
+│   │   ├── [drwxr-xr-x   96 2026-01-13 14:54]  chunks
+│   │   │   └── [drwxr-xr-x 1.6K 2026-01-13 14:54]  ssr
+│   │   │       ├── [-rw-rw-r--  19K 2026-01-13 14:54]  [root-of-the-server]__0c1ef9cf._.js
+│   │   │       ├── [-rw-rw-r-- 114K 2026-01-13 14:54]  [root-of-the-server]__0c1ef9cf._.js.map
+│   │   │       ├── [-rw-rw-r--  745 2026-01-13 14:54]  [root-of-the-server]__13ec1261._.js
+│   │   │       ├── [-rw-rw-r-- 3.4K 2026-01-13 14:54]  [root-of-the-server]__13ec1261._.js.map
+│   │   │       ├── [-rw-rw-r--  53K 2026-01-13 14:54]  [root-of-the-server]__709fb98b._.js
+│   │   │       ├── [-rw-rw-r-- 271K 2026-01-13 14:54]  [root-of-the-server]__709fb98b._.js.map
+│   │   │       ├── [-rw-rw-r--  95K 2026-01-13 14:54]  [root-of-the-server]__867903a0._.js
+│   │   │       ├── [-rw-rw-r-- 572K 2026-01-13 14:54]  [root-of-the-server]__867903a0._.js.map
+│   │   │       ├── [-rw-rw-r-- 1.8K 2026-01-13 14:54]  [root-of-the-server]__9ce19135._.js
+│   │   │       ├── [-rw-rw-r-- 5.2K 2026-01-13 14:54]  [root-of-the-server]__9ce19135._.js.map
+│   │   │       ├── [-rw-rw-r-- 1.4K 2026-01-13 14:54]  [root-of-the-server]__9ffaa26b._.js
+│   │   │       ├── [-rw-rw-r-- 2.7K 2026-01-13 14:54]  [root-of-the-server]__9ffaa26b._.js.map
+│   │   │       ├── [-rw-rw-r-- 3.3K 2026-01-13 14:54]  [root-of-the-server]__a10ae24f._.js
+│   │   │       ├── [-rw-rw-r-- 7.3K 2026-01-13 14:54]  [root-of-the-server]__a10ae24f._.js.map
+│   │   │       ├── [-rw-rw-r--  29K 2026-01-13 14:54]  [turbopack]_runtime.js
+│   │   │       ├── [-rw-rw-r--  49K 2026-01-13 14:54]  [turbopack]_runtime.js.map
+│   │   │       ├── [-rw-rw-r--  714 2026-01-13 14:54]  _79531e11._.js
+│   │   │       ├── [-rw-rw-r--  639 2026-01-13 14:54]  _79531e11._.js.map
+│   │   │       ├── [-rw-rw-r--  250 2026-01-13 14:54]  _8a819801._.js
+│   │   │       ├── [-rw-rw-r--  425 2026-01-13 14:54]  _8a819801._.js.map
+│   │   │       ├── [-rw-rw-r--  17K 2026-01-13 14:54]  _de6f3e0b._.js
+│   │   │       ├── [-rw-rw-r--  76K 2026-01-13 14:54]  _de6f3e0b._.js.map
+│   │   │       ├── [-rw-rw-r--  17K 2026-01-13 14:54]  _e3d7c4a6._.js
+│   │   │       ├── [-rw-rw-r-- 111K 2026-01-13 14:54]  _e3d7c4a6._.js.map
+│   │   │       ├── [-rw-rw-r--  123 2026-01-13 14:54]  _next-internal_server_app_(site)_page_actions_02f0fdf8.js
+│   │   │       ├── [-rw-rw-r--   51 2026-01-13 14:54]  _next-internal_server_app_(site)_page_actions_02f0fdf8.js.map
+│   │   │       ├── [-rw-rw-r--  126 2026-01-13 14:54]  _next-internal_server_app__global-error_page_actions_75761787.js
+│   │   │       ├── [-rw-rw-r--   51 2026-01-13 14:54]  _next-internal_server_app__global-error_page_actions_75761787.js.map
+│   │   │       ├── [-rw-rw-r--  123 2026-01-13 14:54]  _next-internal_server_app__not-found_page_actions_554ec2bf.js
+│   │   │       ├── [-rw-rw-r--   51 2026-01-13 14:54]  _next-internal_server_app__not-found_page_actions_554ec2bf.js.map
+│   │   │       ├── [-rw-rw-r--  236 2026-01-13 14:54]  app_layout_tsx_271801d7._.js
+│   │   │       ├── [-rw-rw-r--  458 2026-01-13 14:54]  app_layout_tsx_271801d7._.js.map
+│   │   │       ├── [-rw-rw-r-- 1.7K 2026-01-13 14:54]  node_modules_8bc17d92._.js
+│   │   │       ├── [-rw-rw-r-- 4.0K 2026-01-13 14:54]  node_modules_8bc17d92._.js.map
+│   │   │       ├── [-rw-rw-r--  92K 2026-01-13 14:54]  node_modules_a3f62784._.js
+│   │   │       ├── [-rw-rw-r-- 639K 2026-01-13 14:54]  node_modules_a3f62784._.js.map
+│   │   │       ├── [-rw-rw-r--  16K 2026-01-13 14:54]  node_modules_next_dist_08570d7f._.js
+│   │   │       ├── [-rw-rw-r--  74K 2026-01-13 14:54]  node_modules_next_dist_08570d7f._.js.map
+│   │   │       ├── [-rw-rw-r--  45K 2026-01-13 14:54]  node_modules_next_dist_7769b563._.js
+│   │   │       ├── [-rw-rw-r-- 570K 2026-01-13 14:54]  node_modules_next_dist_7769b563._.js.map
+│   │   │       ├── [-rw-rw-r-- 2.4K 2026-01-13 14:54]  node_modules_next_dist_client_components_9774470f._.js
+│   │   │       ├── [-rw-rw-r-- 4.2K 2026-01-13 14:54]  node_modules_next_dist_client_components_9774470f._.js.map
+│   │   │       ├── [-rw-rw-r--  625 2026-01-13 14:54]  node_modules_next_dist_client_components_builtin_forbidden_45780354.js
+│   │   │       ├── [-rw-rw-r--  620 2026-01-13 14:54]  node_modules_next_dist_client_components_builtin_forbidden_45780354.js.map
+│   │   │       ├── [-rw-rw-r--  482 2026-01-13 14:54]  node_modules_next_dist_client_components_builtin_global-error_ece394eb.js
+│   │   │       ├── [-rw-rw-r-- 2.6K 2026-01-13 14:54]  node_modules_next_dist_client_components_builtin_global-error_ece394eb.js.map
+│   │   │       ├── [-rw-rw-r--  638 2026-01-13 14:54]  node_modules_next_dist_client_components_builtin_unauthorized_15817684.js
+│   │   │       ├── [-rw-rw-r--  639 2026-01-13 14:54]  node_modules_next_dist_client_components_builtin_unauthorized_15817684.js.map
+│   │   │       ├── [-rw-rw-r--  17K 2026-01-13 14:54]  node_modules_next_dist_esm_build_templates_app-page_d92e159d.js
+│   │   │       └── [-rw-rw-r--  75K 2026-01-13 14:54]  node_modules_next_dist_esm_build_templates_app-page_d92e159d.js.map
+│   │   ├── [-rw-r--r--  144 2026-01-13 14:54]  app-paths-manifest.json
+│   │   ├── [-rw-r--r--   37 2026-01-13 14:54]  functions-config-manifest.json
+│   │   ├── [-rw-r--r--   48 2026-01-13 14:54]  interception-route-rewrite-manifest.js
+│   │   ├── [-rw-r--r--  596 2026-01-13 14:54]  middleware-build-manifest.js
+│   │   ├── [-rw-r--r--   83 2026-01-13 14:54]  middleware-manifest.json
+│   │   ├── [-rw-r--r--  135 2026-01-13 14:54]  next-font-manifest.js
+│   │   ├── [-rw-r--r--   94 2026-01-13 14:54]  next-font-manifest.json
+│   │   ├── [-rw-r--r--    2 2026-01-13 14:54]  pages-manifest.json
+│   │   ├── [-rw-r--r--  138 2026-01-13 14:54]  server-reference-manifest.js
+│   │   └── [-rw-r--r--   97 2026-01-13 14:54]  server-reference-manifest.json
+│   ├── [drwxr-xr-x  128 2026-01-13 14:54]  static
+│   │   ├── [drwxr-xr-x  384 2026-01-13 14:54]  chunks
+│   │   │   ├── [-rw-rw-r-- 219K 2026-01-13 14:54]  30ea11065999f7ac.js
+│   │   │   ├── [-rw-rw-r-- 128K 2026-01-13 14:54]  4dd28bc3f722184a.js
+│   │   │   ├── [-rw-rw-r--  30K 2026-01-13 14:54]  7340adf74ff47ec0.js
+│   │   │   ├── [-rw-rw-r-- 5.6K 2026-01-13 14:54]  945fab894dcb74b9.js
+│   │   │   ├── [-rw-rw-r-- 110K 2026-01-13 14:54]  a6dad97d9634a72d.js
+│   │   │   ├── [-rw-rw-r-- 113K 2026-01-13 14:54]  a6dad97d9634a72d.js.map
+│   │   │   ├── [-rw-rw-r--  38K 2026-01-13 14:54]  aa0a7c5c022cbeb9.js
+│   │   │   ├── [-rw-rw-r--  23K 2026-01-13 14:54]  e871d31bc64e6ae3.js
+│   │   │   ├── [-rw-rw-r--  282 2026-01-13 14:54]  ff1a16fafef87110.js
+│   │   │   └── [-rw-rw-r--  10K 2026-01-13 14:54]  turbopack-14de5e73fa61c5ff.js
+│   │   └── [drwxr-xr-x  160 2026-01-13 14:54]  uIHAzdGyaXB76EGuqwznC
+│   │       ├── [-rw-r--r--  219 2026-01-13 14:54]  _buildManifest.js
+│   │       ├── [-rw-r--r--    2 2026-01-13 14:54]  _clientMiddlewareManifest.json
+│   │       └── [-rw-r--r--   76 2026-01-13 14:54]  _ssgManifest.js
+│   ├── [drwxr-xr-x  128 2026-01-13 14:54]  types
+│   │   ├── [-rw-r--r-- 1.4K 2026-01-13 14:54]  routes.d.ts
+│   │   └── [-rw-r--r-- 2.1K 2026-01-13 14:54]  validator.ts
+│   ├── [-rw-r--r--   21 2026-01-13 14:54]  BUILD_ID
+│   ├── [-rw-r--r--  105 2026-01-13 14:54]  app-path-routes-manifest.json
+│   ├── [-rw-r--r--  494 2026-01-13 14:54]  build-manifest.json
+│   ├── [-rw-r--r--  114 2026-01-13 14:54]  export-detail.json
+│   ├── [-rw-r--r--  234 2026-01-13 14:54]  fallback-build-manifest.json
+│   ├── [-rw-rw-r-- 5.4K 2026-01-13 14:54]  next-minimal-server.js.nft.json
+│   ├── [-rw-rw-r--  39K 2026-01-13 14:54]  next-server.js.nft.json
+│   ├── [-rw-r--r--   20 2026-01-13 14:54]  package.json
+│   ├── [-rw-r--r-- 4.2K 2026-01-13 14:54]  required-server-files.js
+│   ├── [-rw-r--r-- 4.2K 2026-01-13 14:54]  required-server-files.json
+│   ├── [-rw-r--r-- 1.5K 2026-01-13 14:54]  routes-manifest.json
+│   └── [-rw-r--r--    0 2026-01-13 14:54]  turbopack
+├── [drwxr-xr-x  160 2026-01-13 18:20]  app
+│   ├── [drwxr-xr-x  128 2026-01-13 19:03]  (site)
+│   │   ├── [drwxr-xr-x   96 2026-01-13 19:03]  [...slug]
+│   │   │   └── [-rw-r--r-- 2.1K 2026-01-13 19:19]  page.tsx
+│   │   └── [-rw-r--r-- 5.5K 2026-01-13 18:49]  page.tsx
+│   ├── [-rw-r--r--   59 2026-01-13 18:20]  globals.css
+│   └── [-rw-r--r--  240 2026-01-13 18:19]  layout.tsx
+├── [drwxr-xr-x   96 2026-01-10 22:23]  components
+│   └── [drwxr-xr-x  128 2026-01-10 22:23]  home
+│       ├── [drwxr-xr-x  160 2026-01-10 22:26]  sections
+│       │   ├── [-rw-r--r--  972 2026-01-10 22:26]  CategorySplit.tsx
+│       │   ├── [-rw-r--r--  812 2026-01-10 22:23]  Destacados.tsx
+│       │   └── [-rw-r--r--  486 2026-01-10 22:25]  Principales.tsx
+│       └── [-rw-r--r-- 2.1K 2026-01-13 19:19]  PostCard.tsx
+├── [drwxr-xr-x  128 2026-01-10 22:22]  lib
+│   ├── [-rw-r--r--  855 2026-01-10 22:22]  sanitize.ts
+│   └── [-rw-r--r-- 1.7K 2026-01-13 14:07]  wpgraphql.ts
+├── [drwxr-xr-x   96 2026-01-10 22:30]  types
+│   └── [-rw-r--r--  139 2026-01-10 22:30]  next-fetch.d.ts
+├── [-rw-r--r-- 6.0K 2026-01-13 12:04]  .DS_Store
+├── [-rw-r--r--  150 2026-01-13 11:50]  .env.local
+├── [-rw-r--r--  33K 2026-01-13 11:54]  estructura_completa_proyecto.txt
+├── [-rw-r--r--  251 2026-01-13 14:54]  next-env.d.ts
+├── [-rw-r--r--  268 2026-01-13 18:18]  next.config.ts
+├── [-rw-r--r--  68K 2026-01-13 19:19]  package-lock.json
+├── [-rw-r--r--  530 2026-01-13 18:15]  package.json
+├── [-rw-r--r--   82 2026-01-13 18:15]  postcss.config.js
+├── [-rw-r--r--  892 2026-01-13 19:21]  project_tree.txt
+├── [-rw-r--r--    0 2026-01-13 19:21]  proyecto_estructura_detallada.txt
+├── [-rw-r--r--  214 2026-01-13 18:19]  tailwind.config.js
+└── [-rw-r--r--  830 2026-01-10 22:43]  tsconfig.json
+
+56 directories, 266 files
