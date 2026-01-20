@@ -1,0 +1,35 @@
+.
+├── .env.local
+├── .gitignore
+├── app
+│   ├── (site)
+│   │   ├── [...slug]
+│   │   │   └── page.tsx
+│   │   └── page.tsx
+│   ├── globals.css
+│   └── layout.tsx
+├── components
+│   └── home
+│       ├── PostCard.tsx
+│       └── sections
+│           ├── CategorySplit.tsx
+│           ├── Destacados.tsx
+│           └── Principales.tsx
+├── estructura_completa_proyecto.txt
+├── estructura_proyecto.txt
+├── lib
+│   ├── sanitize.ts
+│   └── wpgraphql.ts
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── project_tree.txt
+├── proyecto_estructura_detallada.txt
+├── tailwind.config.js
+├── tsconfig.json
+└── types
+    └── next-fetch.d.ts
+
+9 directories, 24 files
