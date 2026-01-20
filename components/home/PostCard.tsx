@@ -45,7 +45,7 @@ export default function PostCard({ post, variant = 'medium', showExcerpt = false
         )}
         <h3 className={`${titleCls} mt-3 leading-tight`}>{post.title}</h3>
       </Link>
-      <div className="mt-2 text-xs text-neutral-500 flex items-center gap-2">
+      <div className="mt-2 text-xs text-red-500 flex items-center gap-2">
         {post.categories?.nodes?.[0] && (
           <span className="uppercase tracking-wide">{post.categories.nodes[0].name}</span>
         )}
